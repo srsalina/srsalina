@@ -21,6 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Wireshark      | Wireshark Analysis Lab|
 | Security Groups in Azure                  | Azure Project|
 | Scanning for Vulnerabilities - nmap | nmap Vulnerability Scanning|
+| Incident Management| Incident Handler's Journal|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
