@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python Language          | <a href="https://github.com/srsalina/Python-Lab/blob/main/README.md">File Update Algorithm Lab</a>|
-| Security Data Analysis with SQL | <a href="https://google.com">SQL Lab</a>|
+| Security Data Analysis with SQL | <a href="https://github.com/srsalina/SQL-Lab/blob/main/README.md">SQL Lab</a>|
 | File Permissions in Linux         | Permissions Management Lab|
 | Wireshark      | Wireshark Analysis Lab|
 | Security Groups in Azure                  | Azure Project|
