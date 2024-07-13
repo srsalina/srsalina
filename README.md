@@ -11,13 +11,13 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python Language          | <a href="https://github.com/srsalina/Python-Lab/blob/main/README.md">File Update Algorithm Lab</a>|
 | Security Data Analysis with SQL | <a href="https://github.com/srsalina/SQL-Lab/blob/main/README.md">SQL Lab</a>|
-| File Permissions in Linux         | Permissions Management Lab|
+| File Permissions in Linux         | <a href="https://github.com/srsalina/File-Permissions-Linux/blob/main/README.md">Permissions Management Lab</a>|
 | Wireshark      | Wireshark Analysis Lab|
 | Security Groups in Azure                  | Azure Project|
 | Scanning for Vulnerabilities - nmap | nmap Vulnerability Scanning|
