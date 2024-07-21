@@ -15,15 +15,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Language          | <a href="https://github.com/srsalina/Python-Lab/blob/main/README.md">File Update Algorithm Lab</a>|
+| Python           | <a href="https://github.com/srsalina/Python-Lab/blob/main/README.md">File Update Algorithm Lab</a>|
 | Security Data Analysis with SQL | <a href="https://github.com/srsalina/SQL-Lab/blob/main/README.md">SQL Lab</a>|
 | File Permissions in Linux         | <a href="https://github.com/srsalina/File-Permissions-Linux/blob/main/README.md">Permissions Management Lab</a>|
-| Wireshark      | Wireshark Analysis Lab|
+| Packet Capture      | Wireshark Analysis Lab|
+| Packet Capture        | tcpdump Lab|
+| SIEM            | Google Chronicle Lab|
+| SIEM            | Working with Splunk|
 | Security Groups in Azure                  | Azure Project|
-| Scanning for Vulnerabilities - nmap | nmap Vulnerability Scanning|
+| Vulnerability Scanning | nmap Vulnerability Scanning|
 | Incident Management| Incident Handler's Journal|
 | Phishing Campgain| Mastercard Job Simulation|
-| Full-Stack Clone | <a href="https://github.com/srsalina/API-Project">API-Project</a> [In Progress]|
+| Full-Stack Clone | <a href="https://github.com/srsalina/API-Project">AirBnB API-Project</a> [In Progress]|
 
 ## Tools
 
