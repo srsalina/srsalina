@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Data Analysis with SQL | <a href="https://github.com/srsalina/SQL-Lab/blob/main/README.md">SQL Lab</a>|
 | File Permissions in Linux         | <a href="https://github.com/srsalina/File-Permissions-Linux/blob/main/README.md">Permissions Management Lab</a>|
 | Packet Capture      |<a href="https://github.com/srsalina/Wireshark-Lab/blob/main/README.md"> Wireshark Analysis Lab</a>|
-| Packet Capture        | tcpdump Lab|
+| Packet Capture        | <a href="https://github.com/srsalina/tcpdump-lab/blob/main/README.md">tcpdump Lab</a>|
 | SIEM            | Google Chronicle Lab|
 | SIEM            | Working with Splunk|
 | Security Groups in Azure                  | Azure Project|
