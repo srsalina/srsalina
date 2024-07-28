@@ -54,7 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-### SIEM
+### Detection & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
