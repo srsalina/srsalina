@@ -22,11 +22,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Packet Capture        | <a href="https://github.com/srsalina/tcpdump-lab/blob/main/README.md">tcpdump Lab</a>|
 | SIEM            | Google Chronicle Lab|
 | SIEM            | Working with Splunk|
+| Suricata| Suricata Lab | 
 | Security Groups in Azure                  | Azure Project|
 | Vulnerability Scanning | <a href="https://github.com/srsalina/Scanning-with-Nmap/blob/main/README.md">Nmap Vulnerability Scanning</a>|
 | Incident Management| Incident Handler's Journal|
 | Phishing Campgain| Mastercard Job Simulation|
 | Full-Stack Clone | <a href="https://github.com/srsalina/API-Project">AirBnB API-Project</a> [In Progress]|
+
 
 ## Tools
 
