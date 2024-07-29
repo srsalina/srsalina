@@ -54,7 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Detection & Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Suricata-ED1C24?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
@@ -70,5 +70,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/srsalina/Python-Lab/blob/main/README.md">File Update Algorithm Lab</a>
+- <a href="https://github.com/srsalina/SQL-Lab/blob/main/README.md">SQL Lab</a>
+- <a href="https://github.com/srsalina/File-Permissions-Linux/blob/main/README.md">Permissions Management Lab</a>
+- <a href="https://github.com/srsalina/Wireshark-Lab/blob/main/README.md"> Wireshark Analysis Lab</a>
+- <a href="https://github.com/srsalina/tcpdump-lab/blob/main/README.md">tcpdump Lab</a>
+- <a href="https://github.com/srsalina/Chronicle_lab">Google Chronicle Lab</b>|
+- <a href="https://github.com/srsalina/Scanning-with-Nmap/blob/main/README.md">Nmap Vulnerability Scanning</a>
+-  <a href="https://github.com/srsalina/API-Project">AirBnB API-Project</a>
