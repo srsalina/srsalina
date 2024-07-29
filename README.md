@@ -8,7 +8,7 @@ Following a recent career switch, I have developed a strong passion for cybersec
 ## Objective
 
 
-Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybersecurity analyst position to leverage my recent certifications in Security+ and Google Cybersecurity, along with my strong analytical skills and passion for red teaming and cloud security.
+Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybersecurity analyst position to leverage my recent certifications in Security+ and Google Cybersecurity, along with my strong analytical skills and passion to continue learning.
 
 
 ## Skills
