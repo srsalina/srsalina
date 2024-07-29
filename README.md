@@ -3,12 +3,13 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to expanding my knowledge of cybersecurity.
+Following a recent career switch, I have developed a strong passion for cybersecurity, with a particular focus on red teaming and cloud security. I hold Security+ and Google Cybersecurity certifications and am currently working on my AZ-900 Azure fundamentals, with plans to achieve OSCP and further certifications in Azure and AWS security. Despite my limited hands-on experience, my enthusiasm for technology and eagerness to learn drive my commitment to gaining expertise in the field. In my personal time, I enjoy nature, lofi, video game development, traveling, and learning about history.
 
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybersecurity analyst position to leverage my recent certifications in Security+ and Google Cybersecurity, along with my strong analytical skills and passion for red teaming and cloud security.
+
 
 ## Skills
 
