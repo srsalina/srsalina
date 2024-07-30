@@ -79,3 +79,4 @@ Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybe
 - <a href="https://github.com/srsalina/Chronicle_lab">Google Chronicle Lab</b>|
 - <a href="https://github.com/srsalina/Scanning-with-Nmap/blob/main/README.md">Nmap Vulnerability Scanning</a>
 -  <a href="https://github.com/srsalina/API-Project">AirBnB API-Project</a>
+- <a href="https://github.com/srsalina/Splunk_Query/blob/main/README.md"> Working with Splunk<a/>
