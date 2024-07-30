@@ -3,12 +3,12 @@
 
 
 
-Following a recent career switch, I have developed a strong passion for cybersecurity, with a particular focus on red teaming and cloud security. I hold Security+ and Google Cybersecurity certifications and am currently working on my AZ-900 Azure fundamentals, with plans to achieve OSCP and further certifications in Azure and AWS security. Despite my limited hands-on experience, my enthusiasm for technology and eagerness to learn drive my commitment to gaining expertise in the field. In my personal time, I enjoy nature, lofi, video game development, traveling, and learning about history.
+Following a recent career switch, I have developed a strong passion for cybersecurity, particularly in red teaming and cloud security. I hold Security+ and Google Cybersecurity certifications and am currently working on my AZ-900 Azure fundamentals, with plans to achieve OSCP and further certifications in Azure and AWS security. Despite my limited hands-on experience, my enthusiasm for technology and eagerness to learn drive my commitment to gaining expertise in the field. In my personal time, I enjoy nature, lofi, video game development, traveling, and learning about history.
 
 ## Objective
 
 
-Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybersecurity analyst position to leverage my recent certifications in Security+ and Google Cybersecurity, along with my strong analytical skills and passion to continue learning.
+Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybersecurity analyst position that will allow me to leverage my recent certifications in Security+ and Google Cybersecurity, along with my strong analytical skills and passion for continuing learning.
 
 
 ## Skills
@@ -22,7 +22,7 @@ Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybe
 | Packet Capture      |<a href="https://github.com/srsalina/Wireshark-Lab/blob/main/README.md"> Wireshark Analysis Lab</a>|
 | Packet Capture        | <a href="https://github.com/srsalina/tcpdump-lab/blob/main/README.md">tcpdump Lab</a>|
 | SIEM            | <a href="https://github.com/srsalina/Chronicle_lab">Google Chronicle Lab</b>|
-| SIEM            | Working with Splunk|
+| SIEM            |<a href="https://github.com/srsalina/Splunk_Query/blob/main/README.md"> Working with Splunk<a/>|
 | Suricata| Suricata Lab | 
 | Security Groups in Azure                  | Azure Project|
 | Vulnerability Scanning | <a href="https://github.com/srsalina/Scanning-with-Nmap/blob/main/README.md">Nmap Vulnerability Scanning</a>|
