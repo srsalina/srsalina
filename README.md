@@ -67,6 +67,8 @@ Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybe
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20Fundamentals%20AZ900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+
 
 </div>
 
