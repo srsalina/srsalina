@@ -16,6 +16,7 @@ Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Development| <a href="https://github.com/srsalina/secure_code_tool">Secure Code Tool</a> [In Progress]
 | Python           | <a href="https://github.com/srsalina/Python-Lab/blob/main/README.md">File Update Algorithm Lab</a>|
 | Security Data Analysis with SQL | <a href="https://github.com/srsalina/SQL-Lab/blob/main/README.md">SQL Lab</a>|
 | File Permissions in Linux         | <a href="https://github.com/srsalina/File-Permissions-Linux/blob/main/README.md">Permissions Management Lab</a>|
