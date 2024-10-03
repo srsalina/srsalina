@@ -26,7 +26,7 @@ Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybe
 | SIEM            | <a href="https://github.com/srsalina/Chronicle_lab">Google Chronicle Lab</b>|
 | SIEM            |<a href="https://github.com/srsalina/Splunk_Query/blob/main/README.md"> Working with Splunk<a/>|
 | Suricata| Suricata Lab | 
-| Security Groups in Azure                  | Azure Project|
+| Security Groups in Azure                  |<a href="https://github.com/srsalina/Network-Security-Groups-in-Azure"> Azure Project</a>|
 | Vulnerability Scanning | <a href="https://github.com/srsalina/Scanning-with-Nmap/blob/main/README.md">Nmap Vulnerability Scanning</a>|
 | Full-Stack Clone | <a href="https://github.com/srsalina/API-Project">AirBnB API-Project</a> [In Progress]|
 
