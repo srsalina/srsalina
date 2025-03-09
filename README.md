@@ -16,6 +16,7 @@ Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Diagnostic Tools| <a href="https://github.com/srsalina/simple-linux-diagnostic">Linux</a> <a href="https://github.com/srsalina/simple-powershell-diagnostic">Powershell</a>
 | Development| <a href="https://github.com/srsalina/secure_code_tool">Secure Code Tool</a> [In Progress]
 | Development| <a href="https://github.com/srsalina/forge-gui.git"> Cybersec Dashboard</a> [In Progress]
 | Python           | <a href="https://github.com/srsalina/Python-Lab/blob/main/README.md">File Update Algorithm Lab</a>|
