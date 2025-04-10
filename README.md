@@ -3,12 +3,12 @@
 
 
 
-Following a recent career switch, I have developed a strong passion for cybersecurity, particularly red teaming and cloud security. I hold Security+, Azure AZ-900, and Google Cybersecurity certifications and am currently working on my Network+. I plan to achieve OSCP and further certifications in Azure and AWS security. My enthusiasm for technology and eagerness to learn drive my commitment to gaining expertise in the field. In my personal time, I enjoy nature, lofi, video game development, traveling, and learning about history.
+Following a recent career switch, I have developed a strong passion for Information Technology, particularly Networking and Cybersecurity. I hold Security+, Azure AZ-900, and Google Cybersecurity certifications and am currently working on my Network+. I plan to achieve CCNA, OSCP and further certifications in Azure and AWS.. My enthusiasm for technology and eagerness to learn drive my commitment to gaining expertise in the field. In my personal time, I enjoy nature, lofi, video game development, traveling, and learning about history.
 
 ## Objective
 
 
-Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybersecurity analyst position that will allow me to leverage my recent certifications in Security+ and Google Cybersecurity, along with my strong analytical skills and passion for continuing learning.
+I am seeking an entry-level IT position that will allow me to leverage my recent certifications in Security+ and Google Cybersecurity, along with my strong analytical skills and passion for learning.
 
 
 ## Skills
@@ -25,8 +25,7 @@ Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybe
 | Packet Capture      |<a href="https://github.com/srsalina/Wireshark-Lab/blob/main/README.md"> Wireshark Analysis Lab</a>|
 | Packet Capture        | <a href="https://github.com/srsalina/tcpdump-lab/blob/main/README.md">tcpdump Lab</a>|
 | SIEM            | <a href="https://github.com/srsalina/Chronicle_lab">Google Chronicle Lab</b>|
-| SIEM            |<a href="https://github.com/srsalina/Splunk_Query/blob/main/README.md"> Working with Splunk<a/>|
-| Suricata| Suricata Lab | 
+| SIEM            |<a href="https://github.com/srsalina/Splunk_Query/blob/main/README.md"> Working with Splunk<a/>| 
 | Security Groups in Azure                  |<a href="https://github.com/srsalina/Network-Security-Groups-in-Azure"> Azure Project</a>|
 | Vulnerability Scanning | <a href="https://github.com/srsalina/Scanning-with-Nmap/blob/main/README.md">Nmap Vulnerability Scanning</a>|
 | Full-Stack Clone | <a href="https://github.com/srsalina/API-Project">AirBnB API-Project</a> [In Progress]|
@@ -58,7 +57,6 @@ Dedicated and enthusiastic about cybersecurity, I am seeking an entry-level cybe
 
 ### Detection & Monitoring
 <div>
-  <img src="https://img.shields.io/badge/-Suricata-ED1C24?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
