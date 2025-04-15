@@ -16,6 +16,7 @@ I am seeking an entry-level IT position that will allow me to leverage my recent
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| IT Ticketing| <a href="https://github.com/srsalina/IT_Ticketing/tree/main">Zendesk Demo</a>|
 | Diagnostic Tools| <a href="https://github.com/srsalina/simple-linux-diagnostic">Linux</a> <a href="https://github.com/srsalina/simple-powershell-diagnostic">Powershell</a>
 | Development| <a href="https://github.com/srsalina/secure_code_tool">Secure Code Tool</a> [In Progress]
 | Development| <a href="https://github.com/srsalina/forge-gui.git"> Cybersec Dashboard</a> [In Progress]
