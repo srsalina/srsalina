@@ -3,7 +3,7 @@
 
 
 
-Following a recent career switch, I have developed a strong passion for Information Technology, particularly Networking and Cybersecurity. I hold Security+, Azure AZ-900, and Google Cybersecurity certifications and am currently working on my Network+. I plan to achieve CCNA, OSCP and further certifications in Azure and AWS.. My enthusiasm for technology and eagerness to learn drive my commitment to gaining expertise in the field. In my personal time, I enjoy nature, lofi, video game development, traveling, and learning about history.
+Following a recent career switch, I have developed a strong passion for Information Technology, particularly Networking and Cybersecurity. I hold Security+, Azure AZ-900, and Google Cybersecurity certifications and am currently working on my Network+. I plan to achieve CCNA, OSCP and further certifications in Azure and AWS. My enthusiasm for technology and eagerness to learn drive my commitment to gaining expertise in the field. In my personal time, I enjoy nature, lofi, video game development, traveling, and learning about history.
 
 ## Objective
 
